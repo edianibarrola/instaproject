@@ -1,0 +1,79 @@
+html {
+    background-color: black;
+}
+
+.body_block {
+    background-color: rgb(223, 250, 215);
+    height: 600px;
+    width: 420px;
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    
+}
+
+.name_block p {
+    font-family: 'Fredoka One', cursive;
+}
+
+p {
+    
+    font-family: 'Hind Madurai', sans-serif;
+}
+.logo_block {
+    padding: 15px;
+    
+}
+
+img {
+    width: 100%;
+    
+    
+}
+
+.top_block {
+    display: inline-block;
+    width: 100%;
+}
+
+.logo_block {
+    float: left;
+}
+
+.name_block {
+    float: left;
+    font-size: 15px;
+    line-height: 10px;
+    padding-top: 10px;
+}
+
+.dot_block {
+    float: right;
+    
+    padding-top: 25px;
+    padding-right: 10px;
+    
+}
+
+.icon_block {
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+.like_block {
+    padding-left: 8px;
+    padding-right: 3px;
+}
+
+.caption_block {
+    padding-left: 8px;
+    padding-right: 5px;
+    text-indent: 25px;
+    text-align: left;
+}
+
+.bookmark_icon {
+    float: right;
+}
